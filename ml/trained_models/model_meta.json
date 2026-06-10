@@ -1,0 +1,46 @@
+{
+  "trained_at": "2026-06-10T22:17:58",
+  "sklearn_version": "1.8.0",
+  "model_type": "RandomForestClassifier",
+  "hyperparameters": {
+    "n_estimators": "200",
+    "max_depth": "None",
+    "min_samples_split": "4",
+    "min_samples_leaf": "2",
+    "max_features": "sqrt",
+    "class_weight": "balanced",
+    "random_state": "42",
+    "n_jobs": "-1"
+  },
+  "train_info": {
+    "n_train": 241,
+    "n_test": 61,
+    "n_features": 6,
+    "feature_names": [
+      "age",
+      "family_income",
+      "family_members",
+      "employment_status",
+      "education_level",
+      "disability_status"
+    ],
+    "test_size": 0.2
+  },
+  "metrics": {
+    "accuracy": 0.8197,
+    "precision": 0.8201,
+    "recall": 0.8197,
+    "f1_score": 0.8135,
+    "roc_auc": 0.7797,
+    "cv_mean": 0.8808,
+    "cv_std": 0.0414
+  },
+  "feature_importance": {
+    "family_income": 0.4185160697175802,
+    "employment_status": 0.23319978373388978,
+    "family_members": 0.14738759149166103,
+    "age": 0.1276727652076005,
+    "education_level": 0.05956781735325658,
+    "disability_status": 0.013655972496011911
+  }
+}

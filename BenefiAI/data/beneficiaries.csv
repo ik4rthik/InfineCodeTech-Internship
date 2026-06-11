@@ -1,0 +1,301 @@
+id,applicant_name,age,family_income,family_members,employment_status,education_level,disability_status,eligibility_status
+1,Aryan Maharaj,58,69404.01,2,Unemployed,Primary,No,Eligible
+2,Udant Dewan,65,44498.69,2,Full-time,Graduate,Yes,Eligible
+3,Gagan Sami,45,77140.37,1,Unemployed,Primary,No,Eligible
+4,Ayushman Chander,19,142360.93,9,Unemployed,Secondary,No,Eligible
+5,Viraj Tiwari,32,41609.87,8,Full-time,Graduate,Yes,Eligible
+6,Rushil Saini,69,41610.35,3,Full-time,Secondary,No,Not Eligible
+7,Saumya Mall,66,148071.27,6,Unemployed,Secondary,No,Eligible
+8,Nathaniel Sami,40,83885.19,10,Unemployed,No Formal,No,Eligible
+9,Arunima Dugal,25,35290.46,7,Unemployed,Primary,No,Eligible
+10,Gayathri Chaudry,41,71667.46,10,Unemployed,No Formal,No,Eligible
+11,Lajita Chatterjee,67,35440.4,5,Self-employed,Graduate,No,Not Eligible
+12,Hemangini Lalla,42,35383.09,5,Part-time,Graduate,No,Eligible
+13,Tripti Yadav,40,58068.21,4,Full-time,Graduate,No,Not Eligible
+14,Kritika Brar,22,12844.92,10,Full-time,Secondary,No,Not Eligible
+15,Janaki Handa,47,14655.3,7,Unemployed,Post-Graduate,No,Eligible
+16,Chakradev Kari,32,33070.56,6,Full-time,Graduate,No,Not Eligible
+17,Fariq Kaul,20,24125.34,6,Part-time,No Formal,No,Eligible
+18,Lajita Mall,54,61082.04,6,Unemployed,Secondary,No,Eligible
+19,Janya Gaba,59,25961.84,8,Unemployed,Primary,No,Eligible
+20,Isha Kadakia,52,18240.28,5,Full-time,Secondary,No,Not Eligible
+21,Ekbal Garg,41,136756.07,4,Self-employed,Primary,No,Not Eligible
+22,Nihal Shere,66,41854.58,1,Self-employed,Primary,No,Not Eligible
+23,Anamika Kanda,61,51393.64,7,Full-time,Secondary,No,Not Eligible
+24,Daksh Karnik,47,18082.07,9,Unemployed,Secondary,No,Eligible
+25,Diya Rattan,61,33487.65,2,Full-time,Secondary,No,Not Eligible
+26,Dominic Kakar,59,52978.73,6,Unemployed,Secondary,No,Eligible
+27,Simon Tata,64,21901.37,5,Self-employed,Graduate,No,Not Eligible
+28,Tara Dhar,24,63766.84,5,Full-time,Secondary,No,Not Eligible
+29,Liam Koshy,41,32194.56,3,Part-time,Graduate,No,Eligible
+30,Priya Rastogi,18,39967.2,10,Part-time,No Formal,No,Eligible
+31,Theodore Devi,69,32170.51,5,Unemployed,Primary,No,Eligible
+32,Gavin Batta,23,179260.39,2,Full-time,Graduate,No,Not Eligible
+33,Michael Dutta,52,48559.83,3,Unemployed,Secondary,No,Eligible
+34,Devansh Rajan,34,23379.21,9,Self-employed,Secondary,No,Not Eligible
+35,Upadhriti Wadhwa,52,87184.46,4,Full-time,Secondary,No,Not Eligible
+36,Advay Contractor,41,20856.26,8,Self-employed,Secondary,No,Not Eligible
+37,Harini Choudhury,22,56738.29,6,Unemployed,Secondary,No,Eligible
+38,Radhika Dugar,18,12434.51,2,Full-time,No Formal,Yes,Eligible
+39,Aarush Lall,20,19346.56,6,Unemployed,Primary,No,Eligible
+40,Yashica Cherian,31,56263.59,9,Unemployed,Post-Graduate,No,Eligible
+41,Yashica Issac,48,82201.32,4,Full-time,Graduate,No,Not Eligible
+42,Kashvi Edwin,24,55268.47,7,Part-time,Secondary,No,Eligible
+43,Ekiya Suresh,21,45208.76,2,Unemployed,Graduate,No,Eligible
+44,Isaac Patil,24,39704.8,4,Unemployed,Secondary,Yes,Eligible
+45,Wriddhish Bhardwaj,29,17414.08,5,Part-time,Graduate,Yes,Eligible
+46,Farhan Chada,69,29617.16,9,Unemployed,Graduate,No,Eligible
+47,Ekapad Walia,18,35509.4,2,Self-employed,Graduate,No,Not Eligible
+48,Kabir Soman,49,102742.95,8,Unemployed,Secondary,Yes,Eligible
+49,Alka Wable,42,62350.86,1,Self-employed,Primary,No,Not Eligible
+50,Siddharth Zacharia,47,14269.39,5,Part-time,Post-Graduate,No,Eligible
+51,Devika Rastogi,53,61504.08,8,Unemployed,Primary,No,Eligible
+52,Raksha Varughese,55,37438.03,9,Unemployed,Secondary,Yes,Eligible
+53,Jai Kota,48,30520.52,9,Self-employed,Secondary,Yes,Eligible
+54,Devansh Nigam,50,75220.07,2,Self-employed,No Formal,Yes,Eligible
+55,Victor Kannan,33,100881.28,7,Unemployed,Graduate,No,Eligible
+56,Ekavir Bhargava,56,94079.56,1,Full-time,Secondary,No,Not Eligible
+57,Ekansh Balay,51,27242.89,6,Self-employed,Primary,No,Eligible
+58,Ekavir Varkey,33,39480.07,5,Part-time,Graduate,No,Eligible
+59,Arya Sunder,38,61813.95,2,Unemployed,Secondary,No,Not Eligible
+60,Kevin Solanki,24,97040.3,2,Part-time,Secondary,Yes,Eligible
+61,Urvashi Ray,40,35051.65,2,Self-employed,Secondary,No,Not Eligible
+62,Girindra Chatterjee,52,43046.61,5,Full-time,Post-Graduate,No,Not Eligible
+63,Irya Sampath,18,22596.84,9,Unemployed,Graduate,No,Eligible
+64,Unni Bhagat,26,21219.07,5,Unemployed,Primary,No,Eligible
+65,Darsh Rau,35,86575.15,5,Full-time,Graduate,No,Not Eligible
+66,Ikbal Kothari,58,126673.48,5,Part-time,Primary,No,Eligible
+67,Ranveer Yadav,21,46611.05,2,Full-time,Graduate,Yes,Eligible
+68,Logan Sami,39,98960.2,3,Full-time,Primary,No,Not Eligible
+69,Arya Shere,53,63142.24,7,Full-time,Primary,No,Eligible
+70,Faqid Savant,62,31207.58,3,Part-time,Graduate,No,Eligible
+71,Chandresh Zachariah,27,63131.61,7,Unemployed,Secondary,No,Eligible
+72,Girik Khalsa,68,143864.27,1,Self-employed,Primary,No,Not Eligible
+73,Niharika Sunder,24,47806.73,6,Full-time,Graduate,No,Not Eligible
+74,Tanay Rattan,57,146568.85,3,Self-employed,Primary,No,Not Eligible
+75,Nitesh Raghavan,69,7833.61,3,Self-employed,No Formal,No,Eligible
+76,Madhavi Lanka,39,87145.27,7,Full-time,Graduate,No,Not Eligible
+77,Bhavika Sampath,35,52100.66,3,Full-time,Primary,No,Eligible
+78,Mohammed Gupta,48,39763.11,4,Unemployed,Post-Graduate,No,Eligible
+79,Teerth Bhardwaj,70,52272.86,4,Unemployed,Graduate,No,Eligible
+80,Dipta Bhandari,35,12194.03,2,Self-employed,Primary,No,Eligible
+81,Vansha Thakkar,43,42033.81,9,Part-time,No Formal,No,Eligible
+82,Dakshesh Trivedi,34,62942.62,3,Full-time,Post-Graduate,Yes,Eligible
+83,Quincy Biswas,56,137933.34,7,Part-time,Graduate,No,Eligible
+84,Wahab Raval,50,34105.39,2,Part-time,Secondary,No,Eligible
+85,Yatin Baral,63,27835.14,7,Unemployed,Post-Graduate,No,Eligible
+86,Oni Virk,64,34501.91,4,Part-time,No Formal,No,Eligible
+87,Advika Jayaraman,39,93039.69,10,Part-time,Graduate,No,Eligible
+88,William Lanka,37,61705.34,9,Part-time,Secondary,No,Eligible
+89,Karan Mital,36,33832.19,9,Unemployed,Secondary,No,Eligible
+90,Diya Bora,61,70212.89,3,Full-time,Secondary,No,Not Eligible
+91,Tara Chaudhry,18,52467.77,5,Unemployed,Secondary,No,Eligible
+92,Tanay Toor,59,96572.71,6,Part-time,Secondary,No,Eligible
+93,Kevin Palla,48,29988.31,3,Full-time,Primary,No,Eligible
+94,Yash Pingle,57,38973.47,6,Unemployed,Post-Graduate,No,Eligible
+95,Nakul Sarma,37,37254.36,4,Full-time,Primary,Yes,Eligible
+96,Abhiram Mistry,48,17597.98,10,Full-time,No Formal,No,Eligible
+97,Krish Lalla,58,60311.87,10,Unemployed,Graduate,No,Eligible
+98,Hredhaan Dugal,33,58849.5,3,Full-time,No Formal,No,Eligible
+99,Baghyawati Kade,67,49196.58,2,Full-time,Primary,No,Eligible
+100,Samar Lalla,62,41597.24,9,Part-time,Secondary,No,Eligible
+101,Zayan Behl,25,18201.16,8,Unemployed,Secondary,No,Eligible
+102,Pallavi Malhotra,53,36517.55,10,Part-time,Graduate,No,Eligible
+103,Aarush Nath,70,38564.98,9,Part-time,Post-Graduate,No,Eligible
+104,Adweta Edwin,28,27956.53,8,Part-time,Graduate,No,Eligible
+105,Prisha Andra,35,43787.34,9,Part-time,Primary,No,Eligible
+106,Faqid Dixit,63,65045.06,5,Unemployed,Secondary,No,Eligible
+107,Kala Divan,23,183566.11,3,Unemployed,Secondary,No,Not Eligible
+108,Joshua Barman,31,55392.78,2,Part-time,Secondary,No,Eligible
+109,Janya Baral,21,58705.3,4,Full-time,Secondary,No,Not Eligible
+110,Shivansh Krish,62,46531.64,1,Self-employed,Graduate,No,Not Eligible
+111,Irya Ray,18,12795.64,6,Unemployed,Secondary,No,Eligible
+112,Warjas Gaba,44,48119.38,9,Full-time,Secondary,No,Not Eligible
+113,Nitara Bakshi,32,51131.76,8,Unemployed,Secondary,Yes,Eligible
+114,Gaurangi Sabharwal,39,274929.36,7,Full-time,Graduate,No,Not Eligible
+115,Amara Dutta,57,42845.13,9,Unemployed,Secondary,No,Eligible
+116,Lavanya Barad,19,60541.43,2,Full-time,Primary,No,Not Eligible
+117,Tristan Iyengar,21,47844.04,5,Part-time,Primary,No,Eligible
+118,Inaya Mody,66,21631.92,7,Unemployed,Post-Graduate,No,Eligible
+119,Udant Bajwa,23,109095.18,8,Unemployed,Secondary,No,Eligible
+120,Mohini Narasimhan,40,82979.85,4,Full-time,Graduate,No,Not Eligible
+121,Ekaraj Mallick,66,85282.31,1,Self-employed,Primary,Yes,Eligible
+122,Yashodhara Ratta,27,25937.08,4,Unemployed,Graduate,No,Eligible
+123,Ayaan D’Alia,31,130869.51,8,Full-time,Graduate,No,Not Eligible
+124,Pranav Lanka,56,18374.23,2,Full-time,Primary,No,Eligible
+125,Ikbal Saraf,55,73924.53,1,Self-employed,Secondary,No,Not Eligible
+126,Dipta Sarin,42,227139.34,7,Self-employed,Primary,No,Not Eligible
+127,Lekha Gupta,58,24504.81,4,Unemployed,Graduate,No,Eligible
+128,Chaitanya Sarin,56,32977.86,2,Full-time,Secondary,Yes,Eligible
+129,Zinal Yohannan,52,52562.38,7,Full-time,No Formal,No,Eligible
+130,Januja Sankar,18,34460.43,7,Full-time,Primary,No,Eligible
+131,Ganga Murthy,58,16556.53,8,Full-time,Secondary,No,Not Eligible
+132,Charita Tripathi,59,51430.88,5,Full-time,Post-Graduate,No,Not Eligible
+133,Nilima Narain,47,23304.17,7,Full-time,Secondary,No,Not Eligible
+134,Chakrika Datta,33,68289.73,2,Unemployed,Secondary,No,Not Eligible
+135,Osha Raghavan,54,25755.49,10,Full-time,Secondary,No,Not Eligible
+136,Charvi Ravi,38,145067.45,3,Part-time,Secondary,No,Not Eligible
+137,Daksha Mangat,35,28331.31,10,Full-time,Primary,Yes,Eligible
+138,Qushi Nagy,30,39126.57,2,Unemployed,Secondary,No,Eligible
+139,Riya Sathe,33,86635.25,8,Full-time,Secondary,No,Not Eligible
+140,Yasti Solanki,23,20710.48,5,Unemployed,Graduate,No,Eligible
+141,Frado Mander,55,57481.7,6,Part-time,Secondary,No,Eligible
+142,Girik Keer,65,122393.91,9,Part-time,Graduate,No,Eligible
+143,Umang Issac,34,15910.93,4,Unemployed,Primary,Yes,Eligible
+144,Aryan Batra,52,55784.07,3,Unemployed,Graduate,No,Eligible
+145,Vaishnavi Bora,55,58801.22,9,Full-time,Post-Graduate,No,Not Eligible
+146,Oeshi Hayer,36,84734.32,4,Part-time,Secondary,No,Eligible
+147,Warda Ratta,26,20622.43,5,Unemployed,No Formal,No,Eligible
+148,Manbir Ahluwalia,26,19451.52,8,Unemployed,No Formal,No,Eligible
+149,Pavani Kanda,48,70640.51,8,Part-time,Post-Graduate,No,Eligible
+150,Zarna Shetty,48,60348.37,2,Full-time,Secondary,Yes,Not Eligible
+151,Zaid Dara,58,58415.99,1,Unemployed,Graduate,No,Not Eligible
+152,Kiaan Shetty,23,62474.5,4,Unemployed,Graduate,No,Eligible
+153,Saanvi Thaman,68,30454.31,10,Unemployed,Secondary,No,Eligible
+154,Sanaya Dutt,46,57674.91,5,Self-employed,Post-Graduate,No,Not Eligible
+155,Shivani Lad,57,60183.33,1,Full-time,Graduate,No,Not Eligible
+156,Aradhana Verma,31,29731.25,4,Unemployed,No Formal,No,Eligible
+157,William Maharaj,53,180961.97,2,Unemployed,Secondary,No,Not Eligible
+158,Faras Mangal,48,68301.23,5,Unemployed,Primary,No,Eligible
+159,Anita Nayak,47,21292.02,2,Full-time,Post-Graduate,No,Not Eligible
+160,Faris Devi,58,77620.55,10,Full-time,Post-Graduate,No,Not Eligible
+161,Vihaan Rajagopal,52,24778.28,4,Full-time,Post-Graduate,No,Not Eligible
+162,Tanish Bhatt,22,85046.99,1,Unemployed,Secondary,No,Not Eligible
+163,Nikita Narayanan,54,110306.36,5,Part-time,Secondary,No,Eligible
+164,Ojasvi Bhatia,43,27598.66,5,Part-time,Secondary,Yes,Eligible
+165,Osha Ramachandran,20,96217.19,7,Full-time,Secondary,Yes,Eligible
+166,Lajita Sood,32,65443.77,10,Full-time,No Formal,No,Eligible
+167,Indira Misra,70,87154.89,5,Full-time,Graduate,No,Not Eligible
+168,Oni Yohannan,51,184934.15,8,Self-employed,Primary,No,Eligible
+169,Vinaya Kanda,58,41283.92,8,Self-employed,Secondary,No,Not Eligible
+170,Rajata Sunder,38,28922.78,2,Self-employed,Secondary,No,Not Eligible
+171,Lopa Nayar,36,26300.41,7,Full-time,Secondary,No,Not Eligible
+172,Noah Sibal,38,27692.94,5,Part-time,Post-Graduate,No,Eligible
+173,Avi Ramesh,50,46445.22,1,Full-time,Secondary,No,Not Eligible
+174,Fiyaz Sangha,30,62243.31,9,Part-time,Graduate,No,Eligible
+175,Triya Gopal,66,59497.14,1,Unemployed,Secondary,No,Not Eligible
+176,Abha Raghavan,46,87468.0,8,Unemployed,Post-Graduate,No,Eligible
+177,Siddharth Sha,33,49468.99,3,Part-time,No Formal,No,Eligible
+178,Geetika Raghavan,32,135601.25,2,Part-time,Primary,No,Eligible
+179,Oviya Krishnan,49,40730.82,5,Part-time,Primary,No,Eligible
+180,Upma Bahl,48,329100.49,4,Part-time,Primary,No,Eligible
+181,Inaya Kapur,56,75960.38,9,Full-time,Primary,Yes,Eligible
+182,Banjeet Balasubramanian,67,26902.91,7,Part-time,Graduate,No,Eligible
+183,Ryan Bahri,18,23164.48,5,Full-time,Graduate,No,Not Eligible
+184,William Date,60,68715.54,8,Self-employed,Secondary,No,Not Eligible
+185,Ishwar Kamdar,39,41922.42,9,Full-time,Secondary,No,Not Eligible
+186,Aahana Pillay,30,80805.5,4,Full-time,Primary,No,Eligible
+187,Ishwar Gade,20,68272.77,6,Full-time,Graduate,No,Not Eligible
+188,Hritik Bal,42,46584.34,3,Part-time,No Formal,No,Eligible
+189,Keya Ranganathan,55,27098.79,6,Self-employed,Graduate,No,Not Eligible
+190,Faqid Kibe,51,16976.87,8,Unemployed,Primary,No,Eligible
+191,Charvi Dara,27,35862.22,2,Part-time,Post-Graduate,No,Eligible
+192,Idika Walia,62,89275.21,7,Full-time,Graduate,No,Not Eligible
+193,Kamala Biswas,52,56946.39,7,Self-employed,Secondary,No,Not Eligible
+194,Advik Salvi,49,20495.96,9,Unemployed,No Formal,No,Eligible
+195,Hitesh Sant,36,55338.64,4,Full-time,Secondary,Yes,Eligible
+196,Tripti Dua,58,64197.67,2,Part-time,Graduate,No,Not Eligible
+197,Patrick Vig,20,26404.77,6,Full-time,Primary,No,Eligible
+198,Veda Shroff,27,54590.09,4,Part-time,Secondary,No,Eligible
+199,Amrita Naidu,28,51059.46,3,Unemployed,Graduate,No,Eligible
+200,Gabriel Mallick,33,22024.72,8,Self-employed,Primary,No,Eligible
+201,Yagnesh Shetty,34,62972.36,8,Unemployed,No Formal,No,Eligible
+202,Gayathri Balakrishnan,36,72587.58,9,Unemployed,Secondary,No,Eligible
+203,Ekta Gopal,55,104624.8,5,Full-time,Secondary,No,Not Eligible
+204,Simon Pant,37,102504.44,4,Self-employed,Graduate,Yes,Eligible
+205,Harini Mammen,42,18687.9,10,Part-time,Primary,No,Eligible
+206,Advaith Varughese,19,25425.87,7,Unemployed,Secondary,No,Eligible
+207,Frederick Khurana,65,70299.83,1,Self-employed,Graduate,No,Not Eligible
+208,Vrinda Khosla,36,70238.38,4,Full-time,Secondary,No,Not Eligible
+209,Vritti Sem,57,70300.44,5,Full-time,Graduate,No,Not Eligible
+210,Girik Menon,26,600000.0,2,Self-employed,Secondary,No,Not Eligible
+211,Nidhi Kohli,46,73102.9,1,Full-time,Graduate,Yes,Not Eligible
+212,Jyoti Solanki,36,108542.38,6,Full-time,Primary,Yes,Eligible
+213,Pavani Narayanan,52,95587.87,6,Part-time,Post-Graduate,No,Eligible
+214,Sudiksha Madan,34,77340.57,8,Self-employed,Primary,No,Eligible
+215,Zayan Kashyap,69,39313.04,2,Part-time,No Formal,No,Eligible
+216,Reyansh Mutti,32,83389.56,7,Self-employed,Graduate,No,Not Eligible
+217,Qasim Handa,68,28538.87,7,Unemployed,Secondary,No,Eligible
+218,Veda Malhotra,61,41532.31,5,Full-time,Graduate,No,Not Eligible
+219,Harish Hari,24,34900.12,4,Part-time,Secondary,No,Eligible
+220,Utkarsh Patel,38,51912.34,10,Unemployed,No Formal,No,Eligible
+221,Chasmum Atwal,62,247771.19,5,Full-time,Primary,Yes,Eligible
+222,Anusha Bath,20,13265.4,5,Self-employed,Primary,No,Eligible
+223,Brinda Date,52,79251.54,3,Part-time,Secondary,No,Eligible
+224,Harshil Arora,62,15852.76,9,Part-time,Graduate,No,Eligible
+225,Upasna Srinivas,44,35229.8,2,Full-time,Secondary,No,Not Eligible
+226,Harini Gour,35,105057.74,1,Full-time,Primary,No,Not Eligible
+227,Zayyan Sridhar,33,51276.92,6,Unemployed,Graduate,No,Eligible
+228,Dhruv Rattan,59,23053.63,6,Unemployed,Primary,No,Eligible
+229,Ethan Bera,70,29711.44,8,Unemployed,Primary,No,Eligible
+230,Manthan Modi,19,78882.8,1,Full-time,Primary,Yes,Eligible
+231,Yuvraj Dani,54,29399.81,4,Unemployed,Graduate,No,Eligible
+232,Upkaar Virk,31,57040.74,4,Part-time,Primary,No,Eligible
+233,Shravya Savant,18,50609.79,5,Self-employed,Primary,Yes,Eligible
+234,Pushti Mody,34,31066.33,3,Unemployed,Graduate,Yes,Eligible
+235,Hardik Johal,40,219863.21,4,Full-time,No Formal,No,Not Eligible
+236,Aishani Bumb,26,76400.41,7,Part-time,Graduate,No,Eligible
+237,Wriddhish Ghose,67,11877.49,6,Part-time,Primary,No,Eligible
+238,Naksh Agate,57,55855.21,1,Full-time,Post-Graduate,No,Not Eligible
+239,Shravya Singhal,37,30845.6,8,Full-time,No Formal,No,Eligible
+240,Bachittar Kata,43,89027.74,7,Full-time,Secondary,No,Not Eligible
+241,Barkha Setty,22,28148.11,2,Part-time,Primary,Yes,Eligible
+242,Vivaan Lalla,57,45237.63,10,Part-time,Secondary,No,Eligible
+243,Pavani Contractor,51,69807.11,5,Part-time,Secondary,Yes,Eligible
+244,Manthan Lata,62,89861.84,2,Self-employed,Graduate,No,Not Eligible
+245,Ekbal Bhasin,64,21158.41,4,Part-time,Graduate,No,Eligible
+246,Damyanti Mani,70,38787.34,8,Part-time,Graduate,No,Eligible
+247,Jeet Sidhu,38,35155.57,5,Part-time,Primary,No,Eligible
+248,Neha Magar,22,31028.75,2,Full-time,No Formal,Yes,Eligible
+249,Raksha Buch,65,168690.0,6,Full-time,Secondary,No,Not Eligible
+250,Rachana Naidu,53,65087.46,9,Part-time,Primary,No,Eligible
+251,Atharv Chand,60,20279.81,7,Self-employed,Graduate,No,Not Eligible
+252,Ansh Luthra,56,93200.03,5,Part-time,Secondary,No,Eligible
+253,Parth Singhal,60,216535.4,8,Unemployed,Primary,No,Eligible
+254,Arunima Golla,41,100984.84,2,Full-time,Secondary,No,Not Eligible
+255,Vyanjana Chand,53,16923.2,10,Full-time,Secondary,Yes,Eligible
+256,Ijaya Rege,60,34927.72,5,Unemployed,Primary,No,Eligible
+257,Ekani Cheema,39,118995.12,6,Unemployed,Graduate,No,Eligible
+258,Forum Sabharwal,43,29870.64,2,Unemployed,Secondary,Yes,Eligible
+259,Bhavya Rattan,65,66881.23,9,Unemployed,Secondary,No,Eligible
+260,Suhani Chakrabarti,41,84308.99,5,Full-time,Graduate,No,Not Eligible
+261,Zayyan Naik,23,25620.51,1,Unemployed,Graduate,Yes,Eligible
+262,Netra Varkey,23,47020.18,5,Part-time,Secondary,No,Eligible
+263,Turvi Sachdev,44,5070.09,5,Unemployed,Secondary,No,Eligible
+264,Raghav Vasa,25,23930.97,5,Full-time,Secondary,No,Not Eligible
+265,Wishi Sathe,37,41076.94,1,Unemployed,Post-Graduate,Yes,Eligible
+266,Samar Loke,31,20466.65,5,Self-employed,Graduate,No,Not Eligible
+267,Bhavna Sarma,36,153689.24,6,Unemployed,Secondary,No,Eligible
+268,Jairaj Balakrishnan,26,18013.94,7,Part-time,Primary,No,Eligible
+269,Nathan Mukhopadhyay,60,36025.02,6,Unemployed,Graduate,Yes,Eligible
+270,Nikita Chander,19,53718.8,8,Self-employed,Graduate,No,Not Eligible
+271,Ishaan Shenoy,54,134442.42,7,Full-time,Secondary,Yes,Eligible
+272,Mitesh Tara,19,17941.94,6,Unemployed,Post-Graduate,No,Eligible
+273,Yashodhara Mahajan,62,110659.66,6,Unemployed,Graduate,No,Eligible
+274,Vasudha Sodhi,55,49373.2,7,Part-time,Secondary,No,Eligible
+275,Tanmayi Dhillon,39,24660.15,4,Part-time,Primary,No,Eligible
+276,Rayaan Trivedi,25,67742.73,9,Part-time,Post-Graduate,No,Eligible
+277,Ekaraj Majumdar,64,56350.24,3,Unemployed,Primary,No,Eligible
+278,Harini Tripathi,56,32204.07,3,Full-time,Graduate,No,Not Eligible
+279,Aarnav Mandal,67,51475.51,8,Part-time,Secondary,No,Eligible
+280,Vrishti Dixit,61,37431.97,10,Full-time,Post-Graduate,No,Not Eligible
+281,Veda Pai,58,53075.05,6,Unemployed,No Formal,No,Eligible
+282,Krishna Shah,37,77924.17,5,Full-time,Secondary,Yes,Eligible
+283,Ranbir Khare,47,148778.18,8,Unemployed,Secondary,No,Eligible
+284,Vivaan Roy,59,20609.95,2,Full-time,Secondary,No,Not Eligible
+285,Eesha Solanki,53,218190.4,1,Part-time,Graduate,No,Not Eligible
+286,Libni Doshi,38,12500.68,10,Part-time,Primary,Yes,Eligible
+287,Balhaar Date,24,44079.51,6,Self-employed,No Formal,No,Eligible
+288,Harish Sarraf,20,74000.12,4,Full-time,Post-Graduate,No,Not Eligible
+289,Tanmayi Aurora,57,59676.54,3,Part-time,Post-Graduate,No,Eligible
+290,Nimrat Dubey,67,31701.22,6,Full-time,No Formal,No,Eligible
+291,Upasna Lanka,39,42375.02,2,Part-time,Secondary,No,Eligible
+292,Mitali Buch,34,34714.03,10,Self-employed,Secondary,No,Not Eligible
+293,Lajita Nadig,27,32449.64,6,Part-time,Graduate,No,Eligible
+294,Balendra Biswas,26,88851.48,10,Full-time,No Formal,No,Eligible
+295,Bhavna Karan,59,62938.34,6,Full-time,Graduate,No,Not Eligible
+296,Radha Chaudhari,65,30180.86,9,Unemployed,Graduate,No,Eligible
+297,Sachi Ganesan,19,92016.2,6,Part-time,Post-Graduate,No,Eligible
+298,Ayush Batra,67,60785.69,8,Unemployed,Post-Graduate,No,Eligible
+299,Daksh Memon,36,86595.53,2,Part-time,Secondary,No,Not Eligible
+300,Kavya Sankar,51,76171.31,1,Full-time,Graduate,No,Not Eligible
